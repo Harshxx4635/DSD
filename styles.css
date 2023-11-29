@@ -112,19 +112,6 @@ label:after {
         color: #fff;
     }
 
-#darkmode {
-    color: #000;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 18%;
-    border: none;
-    padding: 0.5em;
-    cursor: pointer;
-    border-radius: 12px;
-    background-color: #636262;
-}
-
 section {
     text-align: center;
     background-color: rgb(56, 144, 220);
