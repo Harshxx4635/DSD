@@ -1,2 +1,2 @@
 # DSD
-dsd lab codes
+dsd lab codes for end semester examination.
